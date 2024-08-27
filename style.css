@@ -1,3 +1,16 @@
-body (
-    
-)
+body { 
+background-color: rgb(255, 0, 0);
+}
+   
+
+p { 
+    color: black;
+}
+
+.theli {
+    font-style: italic;
+}
+
+.img1 {
+    width: 50%;
+}
