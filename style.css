@@ -2,15 +2,28 @@ body {
 background-color: rgb(255, 0, 0);
 }
    
-
 p { 
     color: black;
+    text-align: justify;
 }
-
 .theli {
     font-style: italic;
+    color: rgb(207, 20, 20);
 }
-
 .img1 {
-    width: 50%;
+    width: 30;
 }
+    header {
+     border-bottom
+     padding: 20px;
+     font-size: 32px;
+     color
+    }
+ section {
+    background-color: brown;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    display: flex;
+ }
+
+    
